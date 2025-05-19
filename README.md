@@ -12,16 +12,23 @@ Collection of games done to practice basic coding logic!
 # 4. Dice Race
 ![image](https://github.com/user-attachments/assets/3f05142b-a3b9-4c29-b69b-2d6bcbdeb63f)
 
-# 5. Arithmetic Calculator
-
-# 6. Candy Crush
+# 5. Candy Crush
 ![image](https://github.com/user-attachments/assets/4697ddef-90da-44fc-89cb-3b2e9e75c32d)
 
-# 7. Snake
+# 6. Snake
 ![image](https://github.com/user-attachments/assets/76692b7c-3f5b-43e2-9eca-5431f8f1bbd7)
 
-# 8. Monopoly
+# 7. Monopoly
 ![image](https://github.com/user-attachments/assets/54954320-1f5b-4081-adb9-2c6b4dcd08e3)
+
+# Useful Tools
+# 1. Arithmetic Calculator
+
+
+# 2. Polynomial Simplification
+
+
+# 3. Matrix Calculator
 
 
 
